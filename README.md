@@ -1,3 +1,3 @@
 # MSDN-Enums
-Library containing lots of Python enums from the MSDN website
+Library containing lots of Python enums with return codes from the MSDN website
 
