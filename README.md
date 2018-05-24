@@ -1,3 +1,3 @@
-# MSDN-Enums
-Library containing lots of Python enums with return codes from the MSDN website
+# MSI-Exec-Enum
+Library containing an MsiExec enum
 
